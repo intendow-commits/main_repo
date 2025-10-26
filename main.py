@@ -1,0 +1,5 @@
+print("67")
+a = input("Рядок запрошення: ")
+age = input("How old are you? ")
+age = int(age)
+pi = float('3.14')
